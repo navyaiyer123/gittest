@@ -1,0 +1,10 @@
+git status : checks the status of git files
+git add : adds the changes (git add .)
+git commit -m "message"
+git push origin master
+
+
+
+if two people work on same repo
+first use 
+git pull origin master
